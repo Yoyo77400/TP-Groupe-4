@@ -19,6 +19,14 @@ ul {
     padding: 13px;
 
 }
+h1{
+    text-shadow: 20px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
 
 a {
     text-decoration: none;
