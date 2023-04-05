@@ -1,8 +1,14 @@
-body{
+body {
     background-color: rgb(137, 243, 243);
 }
-nav{
+
+nav {
     background-color: aliceblue;
+    color: black;
+}
+
+
+ul {
+    list-style-type: none;
     display: flex;
-    list-style: none;
 }
