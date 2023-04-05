@@ -5,10 +5,28 @@ body {
 nav {
     background-color: aliceblue;
     color: black;
+    margin: 30px;
+    height: 50px;
+
 }
 
 
 ul {
     list-style-type: none;
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 13px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    background-color: black;
+    color: aliceblue;
 }
